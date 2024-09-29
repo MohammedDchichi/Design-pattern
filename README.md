@@ -1,1 +1,1 @@
-# Design-pattern-Factory-
+# Design-pattern
